@@ -11,3 +11,5 @@ Panel Study of Family Dynamics data <br>
 
 conbindcodebook :
 https://docs.google.com/spreadsheets/d/1mYzQCb9tViXSyEEA-62h4NAvWvjwx2nrfU_aeJ1S25I/edit?gid=0#gid=0
+### **研究成果海報**
+<img width="1587" height="2245" alt="image" src="https://github.com/user-attachments/assets/8c447ec9-1132-4cb6-8d7e-da843b76ab24" />
